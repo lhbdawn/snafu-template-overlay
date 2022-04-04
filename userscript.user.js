@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         snafu Server Template
+// @name         snafu Template
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the canvas!
-// @author       Ship, kinda
+// @author       lhb, kinda
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
